@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">155087055004-qstg70t0a93p41cn68dncr9392pn18ol.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://genic-fsm.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">155087055004</string>
+    <string name="google_api_key" translatable="false">AIzaSyC46wKQXLqQ_oP5GFQTjX6W97xSagRc1wU</string>
+    <string name="google_app_id" translatable="false">1:155087055004:android:5b9a7b8c936f5048bae559</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC46wKQXLqQ_oP5GFQTjX6W97xSagRc1wU</string>
+    <string name="google_storage_bucket" translatable="false">genic-fsm.appspot.com</string>
+    <string name="project_id" translatable="false">genic-fsm</string>
+</resources>

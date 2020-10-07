@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155087055004",
+    "firebase_url": "https://genic-fsm.firebaseio.com",
+    "project_id": "genic-fsm",
+    "storage_bucket": "genic-fsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155087055004:android:5b9a7b8c936f5048bae559",
+        "android_client_info": {
+          "package_name": "com.genicFSM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155087055004-qstg70t0a93p41cn68dncr9392pn18ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC46wKQXLqQ_oP5GFQTjX6W97xSagRc1wU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155087055004-qstg70t0a93p41cn68dncr9392pn18ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
